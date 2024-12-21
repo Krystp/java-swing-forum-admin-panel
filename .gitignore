@@ -1,0 +1,22 @@
+# Pliki binarne i kompilowane
+*.class
+*.jar
+*.war
+*.ear
+
+# Foldery build
+/build/
+/out/
+/target/
+
+# Pliki IDE (IntelliJ IDEA, Eclipse, VS Code)
+.idea/
+*.iml
+*.log
+*.classpath
+*.project
+.vscode/
+
+# Systemowe
+.DS_Store
+Thumbs.db
